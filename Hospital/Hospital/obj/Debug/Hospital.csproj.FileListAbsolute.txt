@@ -1,0 +1,7 @@
+C:\Code\2018\05.03.2018\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Code\2018\05.03.2018\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Code\2018\05.03.2018\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Code\2018\05.03.2018\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Code\2018\05.03.2018\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Code\2018\05.03.2018\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Code\2018\05.03.2018\Hospital\Hospital\obj\Debug\Hospital.pdb
